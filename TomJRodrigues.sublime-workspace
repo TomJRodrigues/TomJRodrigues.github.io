@@ -235,12 +235,9 @@
 		"side_bar_visible": false,
 		"status_bar_visible": false
 	},
-	"expanded_folders":
-	[
-		"/Users/Tom/programming/websites/TomJRodrigues.github.io"
-	],
 	"file_history":
 	[
+		"/Users/Tom/programming/websites/TomJRodrigues.github.io/index.html",
 		"/Users/Tom/programming/react_projects/gear-shed/src/Items.js",
 		"/Users/Tom/programming/react_projects/gear-shed/src/Category.js",
 		"/Users/Tom/programming/react_projects/gear-shed/src/PackingList.js",
@@ -302,7 +299,6 @@
 		"/Users/Tom/Dropbox/Programming/Mountain Names/Native Mountains/content.js",
 		"/Users/Tom/Dropbox/Programming/Mountain Names/Native Mountains/index.html",
 		"/Users/Tom/Dropbox/Programming/Mountain Names/Native Mountains/options.html",
-		"/Users/Tom/programming/websites/TomJRodrigues.github.io/index.html",
 		"/Users/Tom/programming/the_odin_project/paint-grid/css/style.css",
 		"/Users/Tom/programming/the_odin_project/paint-grid/index.html",
 		"/Users/Tom/programming/websites/TomJRodrigues.github.io/README.md",
@@ -372,7 +368,7 @@
 	],
 	"find":
 	{
-		"height": 23.0
+		"height": 35.0
 	},
 	"find_in_files":
 	{
