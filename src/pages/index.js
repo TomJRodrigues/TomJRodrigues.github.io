@@ -89,11 +89,11 @@ class HomeIndex extends React.Component {
 
                     <section id="one">
                         <header className="major">
-                            <h2>Hi there, I'm a Front End Developer</h2>
+                            <h2>Hi there, I'm a Web Developer</h2>
                         </header>
                         <p>I'm a React nerd, and I'm familiar with most of the contextual technologies. 
                         Self-taught with a non-traditional background. 
-                        Not afraid of light design work in Sketch or backend work in Node, either.</p>
+                        Not afraid of design work in Sketch or backend work in Node, either.</p>
                         {/*
                         <ul className="actions">
                             <li><a href="#" className="button">Learn More</a></li>
