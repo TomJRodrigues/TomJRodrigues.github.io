@@ -90,17 +90,23 @@ class HomeIndex extends React.Component {
                     <section id="one">
                         <header className="major">
 <<<<<<< HEAD
+<<<<<<< HEAD
                             <h2>Hi there, I'm a Web Developer</h2>
                         </header>
                         <p>I'm a React nerd, and I'm familiar with most of the contextual technologies. 
                         Self-taught with a non-traditional background. 
                         Not afraid of design work in Sketch or backend work in Node, either.</p>
 =======
+=======
+>>>>>>> parent of 36e0f0e0... Updates
                             <h2>Hi there, I'm a Front End Developer</h2>
                         </header>
                         <p>I'm a React nerd, and I'm familiar with most of the contextual technologies. 
                         Self-taught with a non-traditional background. 
                         Not afraid of light design work in Sketch or backend work in Node, either.</p>
+<<<<<<< HEAD
+>>>>>>> parent of 36e0f0e0... Updates
+=======
 >>>>>>> parent of 36e0f0e0... Updates
                         {/*
                         <ul className="actions">
