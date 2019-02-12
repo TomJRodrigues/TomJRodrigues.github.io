@@ -1,13 +1,2 @@
-# Project dependencies
-.cache
-node_modules
-yarn-error.log
-package-lock.json
-yarn.lock
 
-# Build directory
-/public
-.DS_Store
-
-# Personal
-favicon.sketch
+7-524ec531855a3eb0d1c4.js
